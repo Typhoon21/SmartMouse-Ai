@@ -4,3 +4,5 @@ The game is played by ai using Deep Q Learning and neural network. The player(Mo
 
 Used Frameworks:
 Torch, Kivy
+
+![aigame](https://user-images.githubusercontent.com/24232286/35581631-6862a688-05fd-11e8-9b19-53432ed62d22.png)
